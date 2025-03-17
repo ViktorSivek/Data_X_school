@@ -20,7 +20,7 @@
 # In[1]:
 
 
-get_ipython().system('pip install category_encoders')
+# get_ipython().system('pip install category_encoders')
 
 
 # In[2]:
