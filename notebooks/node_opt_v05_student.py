@@ -28,11 +28,11 @@ import pickle #load data in binary format
 # In[3]:
 
 
-import gdown
+# import gdown
 #In colab, you need to download the file first and save it locally
-file_id = '1ZHg2xs5ekH1XKzcvbJBkkqcHIl4J9mD9' #insurance.pkl
+# file_id = '1ZHg2xs5ekH1XKzcvbJBkkqcHIl4J9mD9' #insurance.pkl
 file_path = 'insurance_train_test.pkl'
-gdown.download('https://drive.google.com/uc?id={}'.format(file_id), file_path, quiet=False)
+# gdown.download('https://drive.google.com/uc?id={}'.format(file_id), file_path, quiet=False)
 
 
 # In[4]:
